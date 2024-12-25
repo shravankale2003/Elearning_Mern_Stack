@@ -8,10 +8,14 @@ React - https://youtu.be/99kgUCIMboY
 Express - https://youtu.be/teipbke8c4A\
 MongoDB - https://youtu.be/AYDP1S5BbTo
 RestApi - https://youtu.be/AhCSfuG9Jxw (optional)
+
+
 Install Dependencies
+
 For Backend - npm i
 
 For Frontend - cd frontend  npm i
+
 
 Env Variables
 Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
